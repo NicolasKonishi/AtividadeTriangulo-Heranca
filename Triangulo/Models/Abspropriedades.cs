@@ -8,6 +8,7 @@ namespace Triangulo.Models
 {
     internal abstract class Abspropriedades : IMetodos
     {
+        //atributos
         public int l1;
         public int l2;
         public int l3;
