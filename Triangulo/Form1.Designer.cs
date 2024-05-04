@@ -89,7 +89,6 @@
             txbLado2.Name = "txbLado2";
             txbLado2.Size = new Size(68, 33);
             txbLado2.TabIndex = 4;
-            txbLado2.TextChanged += this.txbLado2_TextChanged;
             // 
             // txbLado3
             // 
